@@ -1,0 +1,402 @@
+[ListasGeneradas]
+	0
+[Acciones]
+	Abanico
+	Aceite de girasol
+	Aceite de oliva
+	Aceite refinado
+	Adaptador para grifo-manguera
+	Aguacate congelado en trocitos
+	Aguja congelada
+	Ajo molido
+	Ajos
+	Alfombra de corte verde
+	Alfombrilla patio
+	Ambientador
+	Ambientador lavabo
+	Apagar interruptores de alargos
+	Arándanos
+	Arreglar conducto extractor
+	Arreglar fregadero
+	Arroz
+	Atún
+	Auriculares
+	Avisar a dietista día 15 no estaré
+	Azafrán
+	Azúcar
+	Azúcar Moreno
+	Bacalao - blanco
+	Bandeja multiusos cajon
+	Bandeja rectangular
+	Barra de labios
+	Bastoncillos orejas
+	Batido café
+	Batido chocolate
+	Berengenas
+	Berenjena
+	Bicarbonato
+	Bicarbonato de sodio
+	Blanco - Baca-Dora-Leng-Merl-Pesca-Rape
+	Blister medias pechugas pollo
+	Blister muslitos pollo
+	Bolas blancas pulsera
+	Bolsa ropa interior
+	Bolsas congelado
+	Boquerón
+	Borrar paredes
+	Botella de agua
+	Boxer viaje
+	Boxers
+	Brócoli
+	Burbujas
+	Café descafeinado
+	Caja
+	Caja de Pañuelos
+	Caja para cables
+	Calabacín
+	Calcetines viaje
+	Camisetas (las de Roquetas)
+	Canela
+	Caramelo líquido
+	Cargadores y cables
+	Cartera
+	Cartera, móvil y abanico
+	Cascos
+	Cebo ibérico cortado
+	Cebolla
+	Cebollas
+	Cebollas dulces
+	Cebollas lilas
+	Cereales
+	Cerveza
+	Cerveza sin
+	Cervezas
+	Champiñones
+	Chilly
+	Chino
+	Chocolate con y sin
+	Chuches Odín
+	Cinta americana impermeable
+	Cinturón azul
+	Ciruelas
+	Cleanex
+	Coca-Cola
+	Cocer huevos
+	Colgar pantallas
+	Coliflor
+	Comino
+	Comprar Pantalón azul
+	Compresas
+	Conectores USB
+	Costillas
+	Crema cuello escote
+	Crema pies
+	Crocs
+	Cubiertos
+	Decoraciones papel
+	Dentífrico
+	Depilador labial
+	Detergente
+	Detergente para el lava
+	Disco duro rojo
+	Dorada
+	Dorada - blanco
+	Encendedor
+	Espárragos trigueros
+	Espejo de cuerpo entero
+	Esponja mágica
+	Estropajos
+	Fajitas mejicanas
+	Farmacia
+	Fiambre de pavo
+	Filetes de pollo
+	Fixo ancho transparente
+	Flan de café
+	Fruta
+	Gafas
+	Galletas
+	Galletas desayuno
+	Garbanzos
+	Gazpacho
+	Gel de baño
+	Gelatina de fresa
+	Gelatina de sabores
+	Gelatina sabores
+	Gelatinas
+	Habichuelas blancas
+	Hamburguesa
+	Harina de Maíz
+	Harina de Trigo
+	Helados
+	Hielo
+	Huevos
+	Imprimir
+	Imprimir dieta
+	Jamón dulce troceado
+	Jamón reserva
+	Jamón serrano picado
+	Jamón serrano troceado
+	Jamón serrano troceado grande
+	Kefir coco
+	Kefir fresa
+	KH 7
+	Kiwi
+	La Cesta
+	Laca
+	Lavavajillas
+	Leche desnatada
+	Leche Omega 3
+	Lechuga
+	Lechuga Cle
+	Lechuga cortada
+	Lechuga Iceberg
+	Legumbres estofadas
+	Lejía estrella
+	Lenguado - blanco
+	Lentejas
+	Lidl
+	Limpia lavadora
+	Limpiahornos
+	Limpiar lavabo
+	Limpiar patio
+	Limpiar WC
+	Llaves
+	Lomo
+	Lomo de Sajonia
+	Maceta paragüitas
+	Mahonesa
+	Manteca de cerdo
+	Manzana golden
+	Manzanas
+	Maracuya
+	Margarina
+	Masa de hojaldre
+	Masa fresca de pizza flexible
+	Medicinas
+	Medicinas en stock
+	Melón
+	Melva
+	Merluza - blanco
+	Merluza rebozada
+	Metro para estudio
+	Milagritos
+	Monedas 2 €
+	Morcillas dulces
+	Morcillas picantes
+	Mortero
+	Móvil y reloj
+	Mozzarela
+	Nada
+	Nestea
+	Nueces
+	Nutella
+	Ordenador y su transformador
+	Orégano Aguacate p la
+	Palos fregona
+	Pan
+	Pan campesina
+	Pan integral sin corteza
+	Pan molde integral hacendado
+	Pan molde sin corteza
+	Pan rebanadas
+	Panela
+	Pantalón lino azul
+	Pantalón lino marrón
+	Pantalones cortos
+	Papel aluminio
+	Papel de aluminio
+	Papel de cocina
+	Papel de fumar
+	Papel film
+	Papel higiénico
+	Papel horno rollo
+	Pasta
+	Pastillero viaje
+	Patatas
+	Pavo
+	Pechuga de pavo
+	Pegatinas congelados
+	Pepino
+	Pepperoni
+	Pepsi
+	Peras manchadas
+	Perchas con Pinzas
+	Perejil
+	Pescadilla - blanco
+	Photo center
+	Pimienta blanca
+	Pimienta blanca molida
+	Pimienta negra
+	Pimienta negra molida
+	Pimientos
+	Pimientos italianos
+	Pimientos rojos
+	Pimientos verdes
+	Pinzas cerrar
+	Pisto de verduras
+	Pizza carnivora
+	Plátano
+	Pluma
+	Pollo
+	Pollo alitas
+	Pollo filetes
+	Pollo musclos
+	Pollo Odín
+	Pollo pechugas
+	Pollo pechugas cortadas
+	Pollo pechugas finas
+	PopCorn
+	PowerBank
+	Pulpo
+	Pulseras y esferas de reloj
+	Pulverizador milagrito
+	Pulverizador perro
+	Puré de patatas
+	Que entre todo en la maleta
+	Queso fresco
+	Queso light
+	Rape - blanco
+	Regalo para Trini
+	Regleta triangular
+	Relajarse
+	Reloj cocina
+	Repollo
+	Reposa móviles
+	Rimel
+	Ropa interior
+	Roscón
+	Rotulador blanco
+	Sal del Himalaya
+	Sal iodada
+	Sal marina iodada
+	Salchichas frescas
+	Salmón
+	Salsa Boloñesa
+	Salsa dulce de soja
+	Sandía
+	Secreto
+	Semillas de chía
+	Servilletas
+	Servilletas de limones
+	Setas a la plancha
+	Silicona para exteriores
+	Snacks
+	Solomillo
+	Solomillo de pollo
+	Soporte fiso
+	Suavizante
+	Sujeta cables estudio
+	Sujetador
+	Tabaco
+	Tabaco para liar Marlboro
+	Tijeras maualidades
+	Tipex de rodillo
+	Tirar baldosas
+	Tiritas
+	Toallitas + cleanex + (Ibop. y Para.) + Lágrimas + Salvaslips
+	Toallitas desmaquilladoras camomilla
+	Toallitas húmedas perro
+	Toallitas lavadora
+	Toallitas WC
+	Tomate Apis
+	Tomate de pera
+	Tomate frito
+	Tomate Fruco
+	Tomates
+	Tomates ensalada
+	Tomates pera
+	Tomates raf
+	Tortitas de arroz dulces
+	Tortitas de arroz saladas
+	Tostadora
+	Trapos grandes
+	Uva
+	Vainilla
+	Velas
+	Velcro adhesivo
+	Verdura
+	Verduras Kle 6' micro
+	Vinagre
+	Vino blanco
+	Vitamina E
+	Vitro clean
+	Wasa
+	Yogur caramelo
+	Yogur frutos rojos
+	Yogur mango
+	Yogur natural
+	Yogur piña
+	Yogures
+	Zanahoria
+	Zapatillas deporte
+	Zapatillas deporte viaje
+[Cantidades]
+	1
+	1 Band.
+	1 Doce.
+	1 Pack
+	1 Sem.
+	1 Unid.
+	2 Unid.
+	3 Unid.
+	1 raci.
+	1 vez
+	1 ó 2
+	100 g
+	2
+	2 Band.
+	1 Pack
+	2 Pack
+	3 Pack
+	2 botellas
+	200 g
+	3
+	300 g
+	4
+	4 Unid.
+	400 g
+	5 Unid.
+	6
+	??
+	Media
+	Media Doce.
+	Varias
+[Ubicaciones]
+	_PENDIENTE
+	ALDI
+	AMA
+	AMAZON
+	BAZAR
+	BAZAR ROQUETAS
+	BON AREA
+	CARREFOUR
+	CASA
+	CONSUM
+	CONSUM, MERCADONA
+	COPISTERÍA
+	EN EL LIMBO
+	FERRETERÍA
+	LA CESTA EN CASA
+	LIDL
+	MERCADO
+	MERCADONA
+	MOCHILA
+	MOCHILA A MANO
+	PUESTAS
+	PUESTO
+	ROSELLÓN
+	TELÉFONO
+[Habituales]
+	Adaptador para grifo-manguera|FERRETERÍA
+	Aguja congelada|MERCADONA
+	Ajos|CONSUM
+	Alfombrilla patio|BAZAR
+	Gelatina de sabores|CONSUM
+	Hielo|AMA
+	Panela|CONSUM
+	Papel aluminio|CONSUM
+	Papel de cocina|CONSUM
+	Papel de fumar|ESTANCO
+	Papel film|CONSUM
+	Papel higiénico|MERCADONA
+	Pavo|MERCADONA
