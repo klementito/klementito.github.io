@@ -1,6 +1,6 @@
 const PREFIX = 'qh-mobile-' + encodeURIComponent(self.registration.scope) + '-';
-const CACHE = PREFIX + "5b20c74539993c7d";
-const FILES = ["./assets/index-Bq7LIHq2.js","./assets/index-C_6WCgJy.css","./guia-android.html","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png","./index.html","./manifest.webmanifest","./resources/Datos.txt"];
+const CACHE = PREFIX + "6434d3697e355df5";
+const FILES = ["./assets/index-94muvqYC.css","./assets/index-BgmUVORK.js","./guia-android.html","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png","./index.html","./manifest.webmanifest","./resources/Datos.txt"];
 const absolute = path => new URL(path, self.registration.scope).href;
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES.map(absolute))));
